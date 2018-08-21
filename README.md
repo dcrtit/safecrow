@@ -20,11 +20,15 @@ Or install it yourself as:
 
 ## Usage
 
-First, configure api-key and api-secret in config/initializers/safecrow.rb
-
+First, configure api-key and api-secret in config/initializers/safecrow.rb after running this:
 ```ruby
-Safecrow.method_name(params).
+rails g safecrow:install
 ```
+Now yo can do smothing like this:
+```ruby
+Safecrow.method_name(params)
+```
+
  To all availible methods see lib/safecrow.rb and https://github.com/safecrow/docs-apiv3
  
 
