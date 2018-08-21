@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/safecrow.svg)](https://badge.fury.io/rb/safecrow)
+[![License](https://img.shields.io/github/license/dcrtit/safecrow.svg)](https://github.com/dcrtit/safecrow/blob/master/LICENSE.txt)
 # Safecrow
 
 This is SDK for Safecrow API
