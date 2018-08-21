@@ -31,7 +31,7 @@ Now yo can do smothing like this:
 Safecrow.method_name(params)
 ```
 
- To all availible methods see lib/safecrow.rb and https://github.com/safecrow/docs-apiv3
+ To all availible methods see https://www.rubydoc.info/gems/safecrow/0.1.0/Safecrow and https://github.com/safecrow/docs-apiv3
  
 
 ## Development
